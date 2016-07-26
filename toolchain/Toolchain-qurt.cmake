@@ -160,7 +160,7 @@ add_definitions(
 # optimisation flags
 #
 set(ARCHOPTIMIZATION
-	-O0
+	-O2
 	)
 
 # Language-specific flags
